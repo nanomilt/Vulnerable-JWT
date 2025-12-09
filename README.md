@@ -1,4 +1,4 @@
-# Vulnerable-JWT
+ # Vulnerable-JWT
 
 ### Overview
 Collection of vulnerable APIs/apps to test following JWT attacks:
